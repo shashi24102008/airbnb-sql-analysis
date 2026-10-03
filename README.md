@@ -1,25 +1,28 @@
-# SQL Minor Project:  Airbnb Analysis
+# Airbnb SQL Analysis
 
-## Project Overview
-This project focuses on practicing core SQL concepts using JOINs and aggregation functions. The analysis is performed on two datasets:  Airbnb Booking data.
+SQL practice on Airbnb booking data using JOINs and aggregations.
 
-## Airbnb Analysis
-Tasks performed:
-- Superhosts and total bookings
+## Questions answered
+- Which superhosts have the most bookings?
 - Revenue by property type
 - Average booking price by age group
 - Total bookings by nationality
-- Properties with rating above 4.5
+- Properties rated above 4.5
 
-## SQL Concepts Used
-- INNER JOIN
-- GROUP BY
-- SUM(), COUNT(), AVG()
-- WHERE
-- ORDER BY
+## SQL concepts used
+INNER JOIN, GROUP BY, SUM(), COUNT(), AVG(), WHERE, ORDER BY
 
-## Tools Used
-- SQL
+## Key findings
+- [FILL IN: top property type by revenue]
+- [FILL IN: one more insight from your output]
+
+## Structure
+/data for datasets, /queries for .sql files
+
+## Tech stack
+MySQL
+
+
 - Relational Database
 
 ## Goal
